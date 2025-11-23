@@ -1,0 +1,3 @@
+# 🌟 Daily Quote
+
+> Quote will appear here...
