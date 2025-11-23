@@ -1,3 +1,5 @@
 # 🌟 Daily Quote
 
-> Quote will appear here...
+> "Keep coding!" — Unknown
+
+*Updated automatically via GitHub Actions*
